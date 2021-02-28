@@ -33,3 +33,7 @@ p{
     font-size: 21px; 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+footer p{
+    text-align: right; 
+    color: gray; 
+}
